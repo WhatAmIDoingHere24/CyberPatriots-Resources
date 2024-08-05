@@ -12,3 +12,5 @@ sudo apt upgrade ufw
 sudo systemctl enable ufw --now
 sudo ufw enable
 sudo ufw logging on
+
+
